@@ -1,0 +1,12 @@
+{ "headers":
+	{ "action":"UPDATE" },
+        "body":
+	[{"dataModelId":100, "content":"AVI"},
+	{"dataModelId":30, "content":"BENNY"},
+	{"dataModelId":963, "content":"CARL"},
+	{"dataModelId":369, "content":"DENNIS"},	
+	{"dataModelId":4, "content":"ERAN"},
+	{"dataModelId":18, "content":"FELIX"},
+	{"dataModelId":12, "content":"GERMAN"},
+	{"dataModelId":755, "content":"HOVI"}]
+}
